@@ -1,1 +1,76 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/USB-UART_converter.kicad_pcb
+	modified:   CAD/V1.0.0/USB-UART_converter.kicad_pro
+	modified:   CAD/V1.0.0/USB-UART_converter.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/USB-UART_converter.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/USB-UART_converter.kicad_pro
+	modified:   CAD/V1.1.1/USB-UART_converter.kicad_pcb
+	modified:   CAD/V1.1.1/USB-UART_converter.kicad_pro
+	modified:   CAD/V1.1.1/USB-UART_converter.kicad_sch
+	modified:   CAD/V1.1.1/fp-info-cache_TAVU-LENOVO2_Jul-04-144843-2022_Conflict
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/USB-UART_converter_BOM.csv
+	modified:   OUTPUTS/V1.0.0/USB-UART_converter_gerber.zip
+	modified:   OUTPUTS/V1.0.0/USB-UART_converter_ibom.html
+	modified:   OUTPUTS/V1.1.1/USB-UART converter.jpg
+	modified:   OUTPUTS/V1.1.1/USB-UART converter_ibom.html
+	modified:   OUTPUTS/V1.1.1/USB-UART_converter.pdf
+	modified:   OUTPUTS/V1.1.1/USB-UART_converter_190.8x191.6_40.zip
+	modified:   OUTPUTS/V1.1.1/USB-UART_converter_3D.step
+	modified:   OUTPUTS/V1.1.1/USB-UART_converter_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main 2a24508] Updating open source files.
+ 28 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/USB-UART_converter.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/USB-UART_converter.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/USB-UART_converter.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/USB-UART_converter.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/USB-UART_converter.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/USB-UART_converter.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/USB-UART_converter.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/USB-UART_converter.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/fp-info-cache_TAVU-LENOVO2_Jul-04-144843-2022_Conflict
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/USB-UART_converter_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/USB-UART_converter_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/USB-UART_converter_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART converter.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART converter_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART_converter.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART_converter_190.8x191.6_40.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART_converter_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/USB-UART_converter_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/USB-UART-CH340C-converter-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/Ethernet controller W5500 board/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/WiFi bit/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+RS-485-Transceiver-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout to RS-485-Transceiver-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/.git/
