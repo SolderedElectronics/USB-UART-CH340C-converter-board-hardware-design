@@ -1,0 +1,1 @@
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/.git/
