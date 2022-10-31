@@ -118,3 +118,23 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout to RS-485-Transceiver-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 4e8655c] Updating open source files.
+ 1 file changed, 44 insertions(+)
+https://github.com/SolderedElectronics/USB-UART-CH340C-converter-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/Ethernet controller W5500 board/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/WiFi bit/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+RS-485-Transceiver-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout to RS-485-Transceiver-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/.git/
