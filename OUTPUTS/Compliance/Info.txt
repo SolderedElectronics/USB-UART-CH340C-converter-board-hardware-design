@@ -2,4 +2,4 @@ SKU: 333028
 Full product name: USB-UART CH340 converter board
 Country of origin: Croatia
 HS tariff code: 85340090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388673605
